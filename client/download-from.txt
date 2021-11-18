@@ -1,0 +1,2 @@
+curl https://raw.githubusercontent.com/vuejs/vuejs.org/master/src/v2/examples/vue-20-todomvc/index.html -o index.html
+swa start ./client
